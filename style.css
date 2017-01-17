@@ -1,30 +1,32 @@
 
-h1 {
+.h1 {
 background-color: #000000;
 color:#ffffff
 }
-navbar {
+.navbar {
   background-color:#ffff00;
   color:#000000
 }
-container {
+.container {
   background-color: #000000;
 color:#ffffff
 }
-header {
+#header {
   width: 100%;
   height: 80px;
   background-color:  #000000;
    float: center;
 }
-left {
+.left {
   width:70%;
   float:right;
 }
-right {
+.right {
   width:30%;
   float:left;
 }
-active {
+.active {
   background-color: black;
   color: #ffff00;
+
+  
